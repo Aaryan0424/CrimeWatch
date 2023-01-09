@@ -29,7 +29,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 To run our code:
 
-```git clone https://github.com/Aaryan0424/CrimeWatch.git```
+```git clone https://github.com/mayank-kr/CrimeWatch.git```
 
 ```cd CrimeWatch```
 
@@ -38,14 +38,13 @@ Ensure that flask is downloaded and running!
 ```pip install -r requirements.txt```
 
 ```python main.py```
-## Deployment Link :
 
 
 ## Web Inerface :
-![alt text](https://github.com/Aaryan0424/InsurancePrediction_ML-Project/blob/master/static/SS1.png)
+![alt text](https://github.com/mayank-kr/CrimeWatch/blob/master/static/SS1.png)
 
 
-![alt text](https://github.com/Aaryan0424/InsurancePrediction_ML-Project/blob/master/static/SS2.png)
+![alt text](https://github.com/mayank-kr/CrimeWatch/blob/master/static/SS2.png)
 
 
 ## Libraries used :
