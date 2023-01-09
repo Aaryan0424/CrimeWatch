@@ -41,10 +41,10 @@ Ensure that flask is downloaded and running!
 
 
 ## Web Inerface :
-![alt text](https://github.com/mayank-kr/CrimeWatch/blob/master/static/SS1.jpeg)
+![alt text](static/SS1.jpeg)
 
 
-![alt text](https://github.com/mayank-kr/CrimeWatch/blob/master/static/SS2.jpeg)
+![alt text](static/SS1.jpeg)
 
 
 ## Libraries used :
