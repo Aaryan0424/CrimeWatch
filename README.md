@@ -44,7 +44,7 @@ Ensure that flask is downloaded and running!
 ![alt text](static/SS1.jpeg)
 
 
-![alt text](static/SS1.jpeg)
+![alt text](static/SS2.jpeg)
 
 
 ## Libraries used :
