@@ -1,4 +1,4 @@
-# Insurance Premium Prediction
+# CrimeWatch
 
 ## Problem Statement :
 Controlling crime rates has constantly challenged governments and law enforcement agencies, as these acts are committed in an unprecedented manner which requires laborious efforts and skills.To provide a better insight into such acts, we need preventive methods such as predictive policing using the CCTNS dataset containing information on the crimes committed over a period.This enables the Assam police to better detect and prevent future crimes from occurring and, to maintain peace and order among the public.
@@ -87,6 +87,10 @@ Ensure that flask is downloaded and running!
 [Github :floppy_disk:](https://github.com/vamshi5421)
 
 &nbsp;  
+
+## Demo Link
+
+A demo video can be found [here](https://youtu.be/g0OXXvPbjBM)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
